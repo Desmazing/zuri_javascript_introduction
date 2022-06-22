@@ -1,3 +1,5 @@
+//  Write a javascript code that prints out your name, height, and country on the screen
+
 let firstname = 'Desmond';
 let lastname = 'Odera';
 let approxheight = 175;
